@@ -7,6 +7,7 @@ void main ()
 {
 	cout << "hello world\n";
 	cout << "press a key to close!!";
+	cout << "press a key to close!! i said";
 	_getch();
 
 
