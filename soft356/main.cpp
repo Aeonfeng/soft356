@@ -6,8 +6,9 @@ using namespace std;
 void main ()
 {
 	cout << "hello world\n";
-	cout << "press a key to close!!";
-	cout << "press a key to close!! i said";
+	cout << "press a key to close!!\n";
+	cout << "press a key to close!! i said\n";
+	cout << "cheese  burgers are good!\n";
 	_getch();
 
 
